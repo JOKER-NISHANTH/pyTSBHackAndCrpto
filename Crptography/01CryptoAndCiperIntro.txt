@@ -1,0 +1,41 @@
+		What is Cryptography ?
+
+		1. Cryptography is the science of protecting information by transforming it into a secure format..
+		
+		2. An example of basic cryptography is a encrypted message in which are replaced with other  characters..
+		
+		3. To decode the encrypted contents,you would need a grid or table that defines how the letters are transposed..
+		
+	-----------------------------------------------------------------------------------------------------------------------------
+
+		What is cipher in cryptography ?
+		
+		--> Cipher is an algorithm which is applied to plain text to get ciphertext..
+		--> It is the unreadable output of an encryption algorithm..
+		--> The term "cipher" is  sometimes used as an alternative term for ciphertext..
+		--> Ciphertext is not understandable unit it has been converted into plain text using a key..
+	
+	-----------------------------------------------------------------------------------------------------------------------------
+	
+				Types of cipher
+				
+		1. Reverse cipher
+		2. Caesar cipher
+		3. ROT base13 Cipher
+		4. Affine Cipher
+		5. Polybius Square Cipher
+		6. Atbash Cipher and etc..
+		
+	-----------------------------------------------------------------------------------------------------------------------------
+	
+		1. Reverse cipher
+		
+				Reverse Cipher uses a pattern of reversing the string of plain text to convert as ciphertext..
+				
+				( Hinits [::-1] )
+				
+				Plain Text     ==> H E L L O
+				
+				Cipher Text	   ==> O L L E H
+				
+				
